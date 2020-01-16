@@ -1,0 +1,21 @@
+total 92
+drwxrwxr-x 7 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:31 .
+drwxr-xr-x 4 root                     root                      4096 Jan 16 17:30 ..
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841  5501 Jan 16 17:32 .backup-lab-log
+-rw-rw-r-- 1 friendly-middleware-8841 friendly-middleware-8841  3404 Jan 16 17:32 .bash_history
+-rw-rw-r-- 1 friendly-middleware-8841 friendly-middleware-8841   794 Jan 16 17:30 .bash_profile
+-rw-rw-r-- 1 friendly-middleware-8841 friendly-middleware-8841  3805 Jan 16 17:30 .bashrc
+drwxr-xr-x 3 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:31 .cache
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841   117 Jan 16 17:31 .custom_commands.log
+-rw-rw-r-- 1 friendly-middleware-8841 friendly-middleware-8841   309 Jan 16 17:30 .gitconfig
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841 15999 Jan 16 17:32 inotify.log
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841    71 Jan 16 17:30 .learn-config
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841     5 Jan 16 17:31 .learn-open-tmp
+-rw------- 1 friendly-middleware-8841 friendly-middleware-8841   186 Jan 16 17:30 .netrc
+drwxr-xr-x 7 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:32 react-props-movie-lab-recoded-baghdad-2019
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841     0 Jan 16 17:30 .ready
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841   799 Jan 16 17:31 .restore-lab-log
+drwx------ 2 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:30 .ssh
+drwxrwxr-x 2 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:30 temporary
+drwxr-xr-x 3 friendly-middleware-8841 friendly-middleware-8841  4096 Jan 16 17:31 .yarn
+-rw-r--r-- 1 friendly-middleware-8841 friendly-middleware-8841   116 Jan 16 17:31 .yarnrc

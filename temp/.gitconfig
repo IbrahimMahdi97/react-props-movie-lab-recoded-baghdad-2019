@@ -1,0 +1,12 @@
+[user]
+  user  = 'friendly-middleware-8841'
+  name  = 'Ibrahim Mahdi'
+  email = 'ibrahimmahdi115@gmail.com'
+[github]
+  user  = 'friendly-middleware-8841'
+  email = 'ibrahimmahdi115@gmail.com'
+[github "user"]
+  user  = 'friendly-middleware-8841'
+  email = 'ibrahimmahdi115@gmail.com'
+[push]
+  default = simple
